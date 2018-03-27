@@ -1,4 +1,4 @@
-# seckill-java-web-（intelij开发）
+# seckill-java-web-（intellij开发）
   相关技术1. Spring&amp;SpringMVC 2. MyBatis 2. MySQL 3. Restful 4. Bootstrap&amp;jQuery 5.maven 6.Junit</br> 
   思路</br>
 1.Maven命令行：mvn archetype:generate -DgroupId=org.seckill -DartifactId=seckill -DarchetypeArtifactId=maven-archetype-webapp -DarchetypeCatalog=local</br>
